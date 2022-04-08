@@ -1,0 +1,2 @@
+print(''' Welcome peasant!
+                :D  ''')
